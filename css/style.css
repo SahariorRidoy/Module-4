@@ -1,0 +1,67 @@
+header nav ul li a{
+    font-weight: 700;
+    text-decoration: none;
+    margin-left: 50px;
+    color: black;
+   
+}
+
+header nav ul{
+    display: flex;
+    justify-content:center;
+    list-style: none;
+}
+header nav ul li a:hover{
+    color: tomato;
+}
+h1{
+    text-align: center;
+    margin-top: 80px;
+}
+.container{
+    width: 1320px;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+audio{
+    margin-left: 200px;
+    padding: 0 auto;
+}
+video{
+    height: 400px;
+    width: 600px;
+    margin: 0 auto;
+}
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+.form1{
+    width: 1000px;
+    margin: 0 auto;
+    border: 2px solid tomato;
+    justify-content: center;
+}
+.form-one{
+    margin: 20px 20px;
+}
+button{
+    margin-top: 10px;
+}
+#rating{
+    margin-top: 10px;
+}#feedback{
+    margin-top: 10px;
+}
+.caption{
+    margin-left: 100px;
+}
+table ,th, td{
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+   
+}
